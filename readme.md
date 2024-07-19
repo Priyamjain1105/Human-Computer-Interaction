@@ -117,6 +117,9 @@ the things we have to do to incerase the interation between the user and the sys
 7.  **3 D interfaces**: icons in 3d style, text, virtual enviroment
 8.  **WIMP:** Windows, icon, menus, pointers
 
+# What is design
+Achiveing goals within constraints
+
 # Shneidrman's 8 Golden Rules of interface Design
 1. Strive for consistency
 2. Enable frequent user to use shortcuts
@@ -126,3 +129,26 @@ the things we have to do to incerase the interation between the user and the sys
 6. Permit easy reversal of actions: undo
 7. Support internal locus of control: show user that he is the controller
 8.  reduce short term memory load: dont make user recall info
+
+# Software development life cycle
+Structures approach to software development that encompasses various stages 
+1. Planning
+2. Requirement analysis
+3. Design
+4. Implementation
+5. testing
+6. deployment
+7. maintaince
+
+
+# Principal to support usability
+1. Consistency
+2. Feedback
+3. Affordance
+4. Visibility
+5. Error Prevestion and recovery
+6. User control and freedom
+7. Flexibility and efficiency
+8. Simplicity
+9. Recognition over recall
+10. Asthetic and minimalist design
