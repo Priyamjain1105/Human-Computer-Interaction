@@ -1,3 +1,4 @@
+
 # Human Computer Interation 
 Mulitdispilinary field
 1. Psychology
@@ -114,4 +115,14 @@ the things we have to do to incerase the interation between the user and the sys
 5.  **Form Fills**  google form/ data entry application
 6.  **Point and click interface**: google maps,touch screen, mouse
 7.  **3 D interfaces**: icons in 3d style, text, virtual enviroment
-8.  **WIMP:** Windows, icon, menus, pointers 
+8.  **WIMP:** Windows, icon, menus, pointers
+
+# Shneidrman's 8 Golden Rules of interface Design
+1. Strive for consistency
+2. Enable frequent user to use shortcuts
+3. offer informative feedback: meaning full and in reasonable time
+4. design dialog to yeild closure: dont keepthe user gueesing (installing of software)
+5. offer simple error handeling: mandatory block in the form and trying to submit
+6. Permit easy reversal of actions: undo
+7. Support internal locus of control: show user that he is the controller
+8.  reduce short term memory load: dont make user recall info
