@@ -102,3 +102,11 @@ I want to do reading the dark room
 the things we have to do to incerase the interation between the user and the system
 
 # Interaction Styles
+1. **Command line**: command -> resule
+2. **Menus**: more comfortable then command line (seitch case)
+3. **Natural Language**: communicating through your natural language (chatgpt)
+4. **Question answer & Query dialog** system asks question and you give input (program that i made)
+5.  **Form Fills**  google form/ data entry application
+6.  **Point and click interface**: google maps,touch screen, mouse
+7.  **3 D interfaces**: icons in 3d style, text, virtual enviroment
+8.  **WIMP:** Windows, icon, menus, pointers 
