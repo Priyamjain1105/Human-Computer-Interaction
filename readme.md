@@ -55,19 +55,24 @@ There are different types of thinking (extreme thinkers and less thinkers), and 
     - if it is sunday he will watch movie
     - it is sunday
     - therefore he will watch movie
+    - general to specific
   - Example 2:
     - if it is raining then ground is dry
     - it is raining
     - therefore ground is dry
+    - example all human are mortal, socrates is human -> scorates is immortal
+    - specific to general
       
    ### 2. Inductive reasoning
    - Generalising from cases we have seen to infer information about the cases we have not seen
      - POSITIVE EVIDENCE: eveidence in support
      - NEGATIVE EVIDENCE: evidenve which disprove, what we know
-       
+     - wvery swan i have seen is white -> henve every swan is white
    ### 3. Abductive Reasoning
    - deriving some information about the event that is happening infront of us
     - ACTION -> EVENT (we can consider action will lead to event)
+     - lawn is wet, join the incomplete observation, probably it must have rain last night
+     - joining incomplete observation
    
 ## Problem Solving
   - Resue of knowledge
