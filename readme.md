@@ -60,13 +60,13 @@ There are different types of thinking (extreme thinkers and less thinkers), and 
     - therefore ground is dry
       
    ### 2. Inductive reasoning
-  - Generalising from cases we have seen to infer information about the cases we have not seen
+   - Generalising from cases we have seen to infer information about the cases we have not seen
      - POSITIVE EVIDENCE: eveidence in support
      - NEGATIVE EVIDENCE: evidenve which disprove, what we know
        
- - ### 3. Abductive Reasoning
- - deriving some information about the event that is happening infront of us
- - ACTION -> EVENT (we can consider action will lead to event)
+   ### 3. Abductive Reasoning
+   - deriving some information about the event that is happening infront of us
+    - ACTION -> EVENT (we can consider action will lead to event)
    
 ## Problem Solving
   - Resue of knowledge
