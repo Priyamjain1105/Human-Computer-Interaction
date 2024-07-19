@@ -49,7 +49,7 @@ storing and retival of information
 There are different types of thinking (extreme thinkers and less thinkers), and different thinking styles between these extremes, (developers need to keep in mind all types of thinkers during developing), inportant ingredient of thinking is knowledge
 ## Reasoning
    councluding wrt to your existing knowlegde is reasoning
-  - ### Deductive Reasoning
+   ### 1.  Deductive Reasoning
   - It not good quality of reasoning example:- 
     - if it is sunday he will watch movie
     - it is sunday
@@ -59,14 +59,15 @@ There are different types of thinking (extreme thinkers and less thinkers), and 
     - it is raining
     - therefore ground is dry
       
-  - ### Inductive reasoning
+   ### 2. Inductive reasoning
   - Generalising from cases we have seen to infer information about the cases we have not seen
      - POSITIVE EVIDENCE: eveidence in support
      - NEGATIVE EVIDENCE: evidenve which disprove, what we know
        
- - ###  Abductive Reasoning
+ - ### 3. Abductive Reasoning
  - deriving some information about the event that is happening infront of us
  - ACTION -> EVENT (we can consider action will lead to event)
+   
 ## Problem Solving
   - Resue of knowledge
   - Insight
