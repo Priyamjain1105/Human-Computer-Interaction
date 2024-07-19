@@ -71,3 +71,32 @@ There are different types of thinking (extreme thinkers and less thinkers), and 
   - Resue of knowledge
   - Insight
   - trial and error
+
+# NORMANS MODEL OF INTERACTION 
+(Human - System)
+(Execution - Evaluation Cycle)
+
+I want to do reading the dark room
+## Execution
+1. **Establishing the goal**: want light
+2. **Forming the intention**: switch on the bulb switch
+3. **Specifying the action sequence**: stand up -> move -> weitch the switch
+4. **Executing the Action**: executing the action
+## Evaluation
+5. **Perceiving the system state**: check weather light is on or not
+6. **Interpreting the system state**: if bulb not open, what could be the problem
+7. **Evaluating the system state wrt the goal and intension**: if bulb is on, is its lumen sufficient for me, if not now i have new goal (full process)
+
+## GULF OF EXECUTION
+  - Difference between the user formulation of actions to reach goal and the actions allowed by system.
+  - If the action allowed by the system corresponds the action intended by the user, then we can say action is effective and efficient
+  - our goal should be to keep this difference as less as it can
+## GULF OF EVALUATION
+  - it is the representation of the physcial presentation of the system state and the expectation of the user
+  - our goal should be  to make the gulf of evalution as less as it can/ as less efforts by the user
+  - example through grhical representation we can easily study the data of 50000 students and the streams they have taken
+
+# Ergonomics
+the things we have to do to incerase the interation between the user and the system
+
+# Interaction Styles
