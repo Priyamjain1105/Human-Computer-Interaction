@@ -46,6 +46,7 @@ storing and retival of information
       - **Retrival of info:**recalling the information
         
 # Thinking, Reasoning and Problem Solving
+## Thinking
 There are different types of thinking (extreme thinkers and less thinkers), and different thinking styles between these extremes, (developers need to keep in mind all types of thinkers during developing), inportant ingredient of thinking is knowledge
 ## Reasoning
    councluding wrt to your existing knowlegde is reasoning
