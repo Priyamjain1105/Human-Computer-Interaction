@@ -81,6 +81,8 @@ There are different types of thinking (extreme thinkers and less thinkers), and 
   - trial and error
 
 # NORMANS MODEL OF INTERACTION 
+![image](https://github.com/user-attachments/assets/43a8df3f-8688-4834-952b-b7e86b66be0b)
+
 (Human - System)
 (Execution - Evaluation Cycle)
 
